@@ -51,6 +51,7 @@ body {
   padding: 4em;
 }
 .footer table{
+  border: 1px solid #orange;
   margin: 0 auto; /*Al calcular automático a los lados, se centra:o*/
 }
 
