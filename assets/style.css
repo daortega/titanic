@@ -46,3 +46,15 @@ body {
   max-width: 400px;
   color: #fff;
 }
+
+.footer{
+  padding: 4em;
+}
+.footer table{
+  margin: 0 auto; /*Al calcular automático a los lados, se centra:o*/
+}
+
+.footer table tr th, td{
+  font-size: 150%;
+  text-align: center;
+}
