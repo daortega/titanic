@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.header{
+  text-align: center;
+  background-color: rgb(150,0,0);
+  padding: 2em 0;
+}
+
+.header h1,h2{
+  margin: 0;
+}
+.header h1{
+  color: #f2af40;
+}
+
+.header h2{
+  color: #fff;
+}
+
+.blue{
+  background-color: rgb(0, 186, 253);
+  padding: 2em;
+  text-align: center; /*Para centrar la imagen :o se centra el div*/
+}
+
+.blue img{
+  max-width: 500px;
+}
+
+.isma{
+  background-image: url("http://www.cartoonbucket.com/wp-content/uploads/2015/09/Kronk-And-Yzma-Laughing.jpg");
+  background-size: cover;
+  min-height: 400px;
+  padding: 3em;
+}
+
+.isma h3{
+  margin:0;
+  color: #f2af40;
+}
+
+.isma p{
+  float: right;
+  max-width: 400px;
+  color: #fff;
+}
